@@ -17,4 +17,5 @@ Fell free to explore and check the code or demo for each projects!
   - **Description** Create a system to evaluate a teacher based on the list of student grades. The program calculates the average score and applies a condition to determine whether the teacher meets the evaluation criteria.
  - **Tech:** Python
  - **States:** Completed
+   [Notebook](Teacher_Evaluation_Based_on_Student_Performance.ipynb)
 
