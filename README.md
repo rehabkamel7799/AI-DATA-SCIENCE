@@ -11,3 +11,4 @@ Fell free to explore and check the code or demo for each projects!
   - Remove books that are no longer on the library.
 - **Tech:** Python
 - **States:** Completed
+[Notebook](Library_Book_Management_Tool_.ipynb)
