@@ -19,3 +19,15 @@ Fell free to explore and check the code or demo for each projects!
  - **States:** Completed
    [Notebook](Teacher_Evaluation_Based_on_Student_Performance.ipynb)
 
+###3. healthcare_dataset_stroke-data
+-**Description** Stroke prediction prject: End-to-end workflow from data preprocessing to model deployment.
+   - Data analysis and cleaning.
+   - Feature engineering and handling missing valus.
+   - Testing multipule algorithms (DT, RF, XGB, Logistic Regression, SVC)
+   - Handling class imbalance with SMOTE.
+   - Model training, Evaluation and hyperparameter tuning.
+   - Deplyment using Gradio for interactive web interface.
+- **Tech:** Python
+- **States:** Completed
+- [Notebook](healthcare_dataset_stroke-data.ipynb)
+
