@@ -29,5 +29,6 @@ Fell free to explore and check the code or demo for each projects!
    - Deplyment using Gradio for interactive web interface.
 - **Tech:** Python
 - **States:** Completed
-- [Notebook](healthcare_dataset_stroke-data.ipynb)
+- [Notebook](healthcare_dataset_stroke_data.ipynb)
+
 
