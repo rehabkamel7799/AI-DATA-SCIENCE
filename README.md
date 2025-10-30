@@ -68,7 +68,6 @@ Fell free to explore and check the code or demo for each projects!
   - Evaluated model performance.  
 -**Tech:** Python, Keras, MobileNetV2  
 -**Status:**: Completed  
-- 
 - [Notebook](Face_Mask_Detection.ipynb)
 
 
