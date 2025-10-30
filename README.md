@@ -19,7 +19,7 @@ Fell free to explore and check the code or demo for each projects!
  - **Status:** Completed
    [Notebook](Teacher_Evaluation_Based_on_Student_Performance.ipynb)
 
-###3. Startup Profit Prodiction
+###3. Startup Profit Prediction
 -**Description** Built a ML model to predict a startup's profit based on its Spending on R&D, Adminstration, and Marketing.
   - Data Analysis, preprocessing.
   - Implemented Linear Regression for prediction.
@@ -27,7 +27,7 @@ Fell free to explore and check the code or demo for each projects!
   - Evaluation the Model
 -**Tech** Python
 -**Status** Completed
--[Notebook](Startup Profit Prodiction.ipynb)
+-[Notebook](Startup Profit Prediction.ipynb)
 
 
 ###4. student_habits_performance
