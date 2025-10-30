@@ -27,7 +27,7 @@ Fell free to explore and check the code or demo for each projects!
   - Evaluation the Model
 -**Tech** Python
 -**Status** Completed
--[Notebook](Startup Profit Prediction.ipynb)
+-[Notebook](Startup_Profit_Prediction.ipynb)
 
 
 ###4. student_habits_performance
@@ -64,7 +64,7 @@ Fell free to explore and check the code or demo for each projects!
 - Evaluated model performance.
 - **Tech:** Python, Keras, MobileNetV2
 - **Status:** Completed
-- [Notebook](Face Mask Detection.ipynb)
+- [Notebook](Face_Mask_Detection.ipynb)
 
 
 -
