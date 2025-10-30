@@ -22,8 +22,8 @@ Fell free to explore and check the code or demo for each projects!
 
 
 ###3. Startup Profit Prediction
-
--**Description** Built a ML model to predict a startup's profit based on its Spending on R&D, Adminstration, and Marketing.
+-**Description**
+  -Built a ML model to predict a startup's profit based on its Spending on R&D, Adminstration, and Marketing.
   - Data Analysis, preprocessing.
   - Implemented Linear Regression for prediction.
   - Model traning.
@@ -34,15 +34,16 @@ Fell free to explore and check the code or demo for each projects!
 
 
 ###4. student_habits_performance
--**Description** student_habits_performance: End-to-end workflow from data preprocessing to model Evaluation
+-**Description** 
+  -student_habits_performance: End-to-end workflow from data preprocessing to model Evaluation
   - Explored how students' habits affect exam score.
   - Cleaned and preprocessed the dataset (handled missing values & categorical features).  
   - Conducted exploratory data analysis (EDA) using visualizations.  
   - Trained and compared multiple regression models: Linear Regression, Decision Tree Regressor, Random Forest Regressor.  
   - Evaluated models using MSE and R² score.
 
-   -**Tech**: Python
-   -**Status**: Completed
+-**Tech:** Python
+-**Status** Completed
   -[Notebook](student_habits_performance.ipynb)
 
 
@@ -61,13 +62,13 @@ Fell free to explore and check the code or demo for each projects!
 
 ###6. Face Mask Detection using Transfer Learning 
 -**Description**
-- End End-to-end Computer Vision workflow from data preprocessing to model training and evaluation.
-- Implemented **Transfer Learning** using a pre-trained **MobileNetV2** model.
-- Added a custom classification layer for detecting masked vs unmasked faces.
-- Trained only the new classification head on the dataset.
-- Evaluated model performance.
+  - End End-to-end Computer Vision workflow from data preprocessing to model training and evaluation.
+  - Implemented **Transfer Learning** using a pre-trained **MobileNetV2** model.
+  - Added a custom classification layer for detecting masked vs unmasked faces.
+  - Trained only the new classification head on the dataset.
+  - Evaluated model performance.
 -**Tech:** Python, Keras, MobileNetV2
-  **Status:**: Completed
+-**Status:**: Completed
 - 
 - [Notebook](Face_Mask_Detection.ipynb)
 
