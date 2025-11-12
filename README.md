@@ -53,7 +53,7 @@ Fell free to explore and check the code or demo for each projects!
    - Testing multipule algorithms (DT, RF, XGB, Logistic Regression, SVC)
    - Handling class imbalance with SMOTE.
    - Model training, Evaluation and hyperparameter tuning.
-   - Deplyment using Gradio for interactive web interface.
+   - Deployment using Gradio for interactive web interface.
 - **Tech:** Python
 - **Status:** Completed
 - [Notebook](healthcare_dataset_stroke_data.ipynb)
@@ -69,6 +69,8 @@ Fell free to explore and check the code or demo for each projects!
 -**Tech:** Python, Keras, MobileNetV2  
 -**Status:**: Completed  
 - [Notebook](Face_Mask_Detection.ipynb)
+
+
 
 
 -
