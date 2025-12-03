@@ -73,6 +73,17 @@ Fell free to explore and check the code or demo for each projects!
 
 
 
--
+###7. Car Detection using YOLOV8n 
+-**Description**
+- implemented a car detection system using a pretrained YOLOv8n model from import libraries to model test.
+- Installed the Ultralytics YOLOv8 package and imported the necessary python libraries.
+- Organized the dataset into YOLO format instructure.
+- created a YAML file that defines the dataset paths.
+- Used pre-trained model YOLOv8n and evaluated the model performance.
+- Tested the model on an image to visualize the result.
+- **Tech** python, Ultralytics, YOLOv8
+- **Status**: Completed
+- [Notebook](Cars Detection 2.ipynb)
+- 
 
 
