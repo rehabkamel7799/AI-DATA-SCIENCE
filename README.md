@@ -83,7 +83,7 @@ Fell free to explore and check the code or demo for each projects!
 - Tested the model on an image to visualize the result.
 - **Tech** python, Ultralytics, YOLOv8
 - **Status**: Completed
-- [Notebook](Cars Detection 2.ipynb)
-- 
+- [Notebook](Cars_Detection_2.ipynb)
+
 
 
