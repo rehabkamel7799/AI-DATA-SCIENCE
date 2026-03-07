@@ -101,7 +101,7 @@ Fell free to explore and check the code or demo for each projects!
   
   **Status** Completed
   
-  [Notebook](Loan-Approval-Prediction.ipynb)
+  [Notebook](Loan_Approval_Prediction.ipynb)
 
 
   
