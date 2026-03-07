@@ -86,15 +86,16 @@ Fell free to explore and check the code or demo for each projects!
 - [Notebook](Cars_Detection_2.ipynb)
 
 - ###8. Loan-Approval-Prediction
+- 
   **Description**
   
   End to End workflow from data handling to model training and evaluation.
   
-  Test Decision Tree, Randon Forest.
+  Test Decision Tree and Random Forest. 
   
-  Model training, Evaluation and performing hyperparameter Tuning.
+  Model training, Evaluation and performing hyperparameter tuning.
   
-  Displaying Classification report and Confusion Matrix.
+  Display Classification Report and Confusion Matrix. 
   
   **Tech** Python
   
@@ -108,37 +109,67 @@ Fell free to explore and check the code or demo for each projects!
 
 
   ###9. Customer_Segmentation
+  
   **Description**
+  
   Developed a customer segmentation model using **Unsupervised Learning** techniques.
+  
   Data Cleaning: Detect and treat outliers, Dropped unhelpful features.
+  
   Perform scaling and visual exploration of groupings.
+  
   Apply K-Means clustering and determine optimal number of clusters.
+  
   Visualize clusters using 2D plots.
+   
   **Tech** Python
+  
   **Status** Completed
+  
   [Notebook](Customer_Segmentation.ipynb)
+
+  
 
 
   ###10. Forest_Cover_Type_Classification
+  
   **Description**
-  End to End workflow from data pre-processing to model training and evaluation.
-  Test and compare between Random forest and XGBoost.
+  
+  End to End workflow from data preprocessing to model training and evaluation.
+  
+  Test and compare Random Forest and XGBoost models. 
+  
   Train and evaluate multi-class classification models.
+  
   Visualize confusion matrix and feature importance.
+  
   **Tech** Python
+  
   **Status** Completed
+  
   [Notebook](Forest_Cover_Type_Classification.ipynb)
+
+  
 
 
   ###11. Student_score_prediction
+  
   **Description**
+  
   Build a model to predict students' exam scores.
+  
   Perform data cleaning and basic visualization to understand the dataset.
+  
   Train a linear regression model to estimate final scores.
+  
   Visualize predictions and evaluate model performance.
+  
   **Tech** Python
+  
   **Status** Completed
+  
   [Notebook](Student_score_prediction.ipynb)
+  
   
 
   
