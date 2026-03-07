@@ -87,13 +87,22 @@ Fell free to explore and check the code or demo for each projects!
 
 - ###8. Loan-Approval-Prediction
   **Description**
+  
   End to End workflow from data handling to model training and evaluation.
+  
   Test Decision Tree, Randon Forest.
+  
   Model training, Evaluation and performing hyperparameter Tuning.
+  
   Displaying Classification report and Confusion Matrix.
+  
   **Tech** Python
+  
   **Status** Completed
+  
   [Notebook](Loan-Approval-Prediction.ipynb)
+
+
   
   
 
